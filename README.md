@@ -8,7 +8,7 @@ This project is an example project realizing easy landing.
 - css
 ## How to run?
   Run this command: ```git clone https://github.com/oksanarutska/cat-library.git```
-## Result  
+
 
 
   
